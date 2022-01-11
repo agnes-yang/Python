@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+In python you can be efficient
+In python you can use list simplely
+=======
+In python you can be efficient
+In python you can use list simplely
+>>>>>>> 44df36ffcbf1d4daced980d12300e7efa2c4f8e2
+In python you can use class to describe things
